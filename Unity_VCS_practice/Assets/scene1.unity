@@ -342,11 +342,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 443096, guid: e5ac68448ea206d4ab38d6200d74e244, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 169714, guid: e5ac68448ea206d4ab38d6200d74e244, type: 2}
       propertyPath: m_Name
       value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 443096, guid: e5ac68448ea206d4ab38d6200d74e244, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 13.79
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e5ac68448ea206d4ab38d6200d74e244, type: 2}
